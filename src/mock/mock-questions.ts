@@ -29,7 +29,7 @@ export const QUESTIONS: Question[] = [
     new Question(6, 1, 'Déficits persistentes na comunicação e na interação sociais, além de padrões de comportamentos restritivos e repetitivos, segundo o DSM 5, referem-se ao seguinte diagnóstico', [
         new Option('transtorno obsessivo-compulsivo', false),
         new Option('síndrome de Asperger', false),
-        new Option('transtorno do espectro autista', true)
+        new Option('transtorno do espectro autista ', true)
     ]),
     new Question(7, 1, 'Segundo a Décima Revisão da Classificação Internacional de Doenças, a CID-10, os transtornos mentais e comportamentais relacionados ao uso da cocaína referem-se à categoria:', [
         new Option('F13', false),
